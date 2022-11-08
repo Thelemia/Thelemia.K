@@ -1,4 +1,4 @@
-
+刻莱伊诺图书馆
 
 欢迎访问我的主页！下面向你介绍一下我吧\~
 
@@ -6,18 +6,10 @@
 
 ## Contact
 
-- Address
-  - **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
-- Site
+- QQ: 2272973227
+- Weibo: 
   - **<https://wu-kan.cn>**
-- [Resume](https://wu-kan.github.io/resume/resume.pdf)
-
-<!-- .slide vertical=true -->
-
-- Phone
-  - **+86 18756280097**
-- WeChat
-  - **Wu-\_-Kan**
+- [Resume](https://weibo.com/5018395824/profile?topnav=1&wvr=6&ssl_rnd=1667945277.436)
 - E-mail:
   - **[i[at]wu-kan.cn](mailto:i@wu-kan.cn)**
   - **[wukan3[at]mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
