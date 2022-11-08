@@ -8,8 +8,7 @@
 
 - QQ: 2272973227
 - Weibo: 
-  - **<https://wu-kan.cn>**
-- [Resume](https://weibo.com/5018395824/profile?topnav=1&wvr=6&ssl_rnd=1667945277.436)
+  - **<https://weibo.com/5018395824/profile?topnav=1&wvr=6&ssl_rnd=1667945277.436>**
 - E-mail:
   - **[i[at]wu-kan.cn](mailto:i@wu-kan.cn)**
   - **[wukan3[at]mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
