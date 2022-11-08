@@ -1,18 +1,18 @@
-刻莱伊诺图书馆
+<p>刻莱伊诺图书馆</p>
 
-欢迎访问我的主页！下面向你介绍一下我吧\~
+言叶乃三千世界轮回之海。
+词语落笔之处，森罗万象分解再生。
+文字飞溅、文字洋溢、文字拨动心之弦音。
+纸墨间辞藻翻涌，生命以诗为原初动力运转不息。
 
 <!-- .slide -->
 
 ## Contact
 
 - QQ: 2272973227
-- Weibo: 
-  - **<https://weibo.com/5018395824/profile?topnav=1&wvr=6&ssl_rnd=1667945277.436>**
-- E-mail:
-  - **[i[at]wu-kan.cn](mailto:i@wu-kan.cn)**
-  - **[wukan3[at]mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
-
+- Weibo: [斩音](https://weibo.com/5018395824/profile?topnav=1&wvr=6&ssl_rnd=1667945277.436)
+- E-mail: witchstaynight@gmail.com
+- Wix: 
 <!-- .slide -->
 
 ## Projects
